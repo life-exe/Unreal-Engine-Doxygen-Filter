@@ -1,4 +1,3 @@
-#!env python3
 import re
 import sys
 
